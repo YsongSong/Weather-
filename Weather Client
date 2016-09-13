@@ -1,0 +1,1 @@
+利用dos命令：wsimport -keep xxxxx.wsdl 或此文档URL创建客户端代码
